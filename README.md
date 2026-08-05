@@ -12,4 +12,3 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
-[![](https://komarev.com/ghpvc/?username= mickhatzikostas220-design&icon=0&color=0)](https://visitcount.itsvg.in)
